@@ -1,6 +1,3 @@
-# Tecnica_Programacao
-Algumas aplicações feitas na disciplina de Tecnica de Programação.
-
 # Funcionalidades
  Três conceitos fundamentais usados: Proxy, Flyweight e Facade.
 
